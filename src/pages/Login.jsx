@@ -6,7 +6,7 @@ export default function Login() {
     <div className="form-container">
       <input type="text" placeholder="Usuario" className="input-field" />
       <input type="password" placeholder="Contraseña" className="input-field" />
-      <button className="login-button">Iniciar Sesión</button>
+      <button className="login-button"><Link to="/home" className="link">Iniciar Sesión</Link></button>
       <Link to="/register" className="link">¿No tiene una cuenta?</Link>
     </div>
   );

@@ -1,4 +1,4 @@
-import Sidebar from "../../components/Sidebar/Sidebar";
+import Sidebar from "../componentes/Sidebar.jsx";
 import "./About.css";
 
 export default function About() {

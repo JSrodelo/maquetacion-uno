@@ -1,4 +1,5 @@
-import Sidebar from "../../components/Sidebar/Sidebar";
+import Sidebar from "../componentes/Sidebar.jsx";
+
 import "./Services.css";
 
 export default function Services() {

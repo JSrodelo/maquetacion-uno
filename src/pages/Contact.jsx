@@ -1,4 +1,4 @@
-import Sidebar from "../../components/Sidebar/Sidebar";
+import Sidebar from "../componentes/Sidebar.jsx";
 import "./Contact.css";
 
 export default function Contact() {
